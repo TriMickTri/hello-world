@@ -1,19 +1,16 @@
 
 hello-world
 
-###################################################
+# Comments go here
 
-Comments go here
-
-Change Log:
+# Change Log:
 Creation date: Dec 2016
 
-Edits:
+# Edits:
    Jan 4, 2017 - Cleanup comments
 
-##################################################
-
-First repo - in branch editing for all fuure works.
+# First repo
+- in branch editing for all future works.
 
 New comments get added here. This is only a test, there is absolutely no need to panic...really.
 
